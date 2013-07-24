@@ -1,0 +1,2 @@
+serviceClass: com.linx.gwt.stockwatcher.client.StockPriceService
+path: 231F86AC1CAFE843143DCD93CA24F75F.gwt.rpc
